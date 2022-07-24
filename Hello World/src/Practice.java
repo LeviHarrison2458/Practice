@@ -9,6 +9,7 @@ import java.util.Scanner;
         	int q;
         	int p;
         	int $;
+        	int 5;
         	
         
         	
